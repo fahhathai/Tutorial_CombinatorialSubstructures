@@ -1,0 +1,12 @@
+parm	./*.prmtop
+
+trajin  ./*.mdcrd
+
+
+autoimage
+
+strip !(:1-199) outprefix com 
+
+trajout md-ref.mdcrd mdcrd nobox
+
+run
