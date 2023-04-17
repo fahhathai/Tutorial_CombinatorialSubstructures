@@ -1,4 +1,0 @@
-C1O[C@H]2OCC[C@H]2[C@H]1OC(=O)N[C@@H](Cc1cc2c(cc1)OCO2)[C@H](O)CN(CC(C)C)S(=O)(=O)c1ccc(N)cc1 A1
-C1O[C@H]2OCC[C@H]2[C@H]1OC(=O)N[C@@H](Cc1cc(c(cc1)C(=O)[O-])C)[C@H](O)CN(CC(C)C)S(=O)(=O)c1ccc(N)cc1 A2
-C1O[C@H]2OCC[C@H]2[C@H]1OC(=O)N[C@@H](Cc1cc(ccc1)C(=O)[O-])[C@H](O)CN(CC(C)C)S(=O)(=O)c1ccc(N)cc1 A3
-C1O[C@H]2OCC[C@H]2[C@H]1OC(=O)N[C@@H](Cc1c2c([nH]c1)cccc2)[C@H](O)CN(CC(C)C)S(=O)(=O)c1ccc(N)cc1 A4

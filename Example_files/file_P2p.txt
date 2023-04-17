@@ -1,3 +1,0 @@
-C1O[C@H]2OCC[C@H]2[C@H]1OC(=O)N[C@@H](Cc1ccccc1)[C@H](O)CN(CC(C)C)S(=O)(=O)c1cc(c(N)c(c1)C[NH3+])C(C)C D1
-C1O[C@H]2OCC[C@H]2[C@H]1OC(=O)N[C@@H](Cc1ccccc1)[C@H](O)CN(CC(C)C)S(=O)(=O)c1ccc(N)c(c1)C(C)C D2
-C1O[C@H]2OCC[C@H]2[C@H]1OC(=O)N[C@@H](Cc1ccccc1)[C@H](O)CN(CC(C)C)S(=O)(=O)c1ccc(N)cc1CCC D3
